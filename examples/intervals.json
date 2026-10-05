@@ -1,0 +1,17 @@
+{
+  "threshold_m": 1.8,
+  "intervals": [
+    {
+      "start_utc": "2024-01-04T02:37:02.571593Z",
+      "end_utc": "2024-01-04T05:28:40.572110Z",
+      "duration_hours": 2.8605556992226298
+    },
+    {
+      "start_utc": "2024-01-04T14:30:41.974092Z",
+      "end_utc": "2024-01-04T17:16:27.632387Z",
+      "duration_hours": 2.7626828595210924
+    }
+  ],
+  "total_hours_above": 5.623238558743722,
+  "note": "Intervals are derived from a piecewise-linear interpolation between prediction samples, not from exact root-finding on the continuous harmonic curve."
+}
